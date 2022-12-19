@@ -2,7 +2,7 @@
 <h3 align="center">A French cybersecurity enthusiast !</h3>
 
 ## Description:  
-My name is *Arthur*, better known under the nickname ``Vozec`` and I am passionate about computer science, more precisely about _cybersecurity_. I learn new things in autodidacts in parallel to my higher education and this GitHub contains many projects that I did by myself. I participate to many **CTF** and many of the new tools I create allow me to save time during these competitions.
+My name is *Arthur*, better known under the nickname ``Vozec`` and I am passionate about computer science, more precisely about _cybersecurity_. I learn new things in autodidacts in parallel to my post-baccalaureate studies and this GitHub contains many projects that I did by myself. I participate to many **CTF** and many of the new tools I create allow me to save time during these competitions.
 
 I also have a web site: [vozec.fr](https://vozec.fr) on which I publish articles ranging from global _cybersecurity_ topics to more specific ones in **cryptography**. 
 
