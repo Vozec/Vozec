@@ -17,7 +17,7 @@ You can find me here :
 ## Here is a list of all the tools I have so far published :
 
 - ### :lock: Cryptography :unlock:
-  - [Feal NX](https://github.com/Vozec/Feal-NX): This tool is the implementation of the FEAL NX and FEAL N encryption
+  - [Feal N(X)](https://github.com/Vozec/Feal-NX): This tool is the implementation of the FEAL NX and FEAL N encryption
   - [AES DFA](https://github.com/Vozec/AES-DFA): An implementation of a differential fault analysis on AES 128
   - [AES Square Attack](https://github.com/Vozec/AES-Square-Attack): An implementation of the Square-Attack on an AES-128
   - [AES Flipper](https://github.com/Vozec/AES-Flipper): An implementation of an AES CBC BitFlip attack
