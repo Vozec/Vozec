@@ -33,7 +33,8 @@ You can find me here :
   - [HSPAL Decompiler](https://github.com/Vozec/HSPAL-Decompiler): A Decompiler of the HSPAL esolang
 
 - ### :triangular_flag_on_post: Other :triangular_flag_on_post:
-  - [CTFilesScan](https://github.com/Vozec/CTFilesScan): A website gathering all the file analysis methods common to all CTFs. 
+  - [CTFilesScan Web](https://github.com/Vozec/CTFileScan-WEB): A website gathering all the file analysis methods common to all CTFs. 
+  - [CTFilesScan](https://github.com/Vozec/CTFilesScan): A local tool gathering all the file analysis methods common to all CTFs. 
   - [Discord CTFD Parser](https://github.com/Vozec/Discord-CTFD-Parser): A tool to create rooms automatically on discord by parsing a CTFD platform
   - [Discord Multi Account Detector](https://github.com/Vozec/Discord-Multi-Account-Detector): A tool to evaluate a reliability score of a discord account 
   - [CTFd Tracker](https://github.com/Vozec/CTFd-Tracker): A tool to detect cheating on ctfs based on CTFD
