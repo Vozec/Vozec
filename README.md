@@ -39,3 +39,10 @@ You can find me here :
   - [Discord Multi Account Detector](https://github.com/Vozec/Discord-Multi-Account-Detector): A tool to evaluate a reliability score of a discord account 
   - [CTFd Tracker](https://github.com/Vozec/CTFd-Tracker): A tool to detect cheating on ctfs based on CTFD
   - [Ctfd Account Creator](https://github.com/Vozec/Ctfd-Account-Creator): A tool to quickly register a team on CTFd
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vozec&layout=compact&theme=dark)![Stats](https://github-readme-stats.vercel.app/api?username=Vozec&show_icons=true&theme=dark)
+
+![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
+![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge)
+![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)
