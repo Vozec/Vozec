@@ -30,6 +30,7 @@ You can find me here :
   - [Vigenere Plaintext Attack](https://github.com/Vozec/Vigenere-Plaintext-Attack): A simple tool to break the vigenère cipher with a Well knon plaintext
 
 - ### :hammer: Reverse Engineering :hammer:
+  - [BrainDbg](https://github.com/Vozec/BrainDbg): My Own Brainfuck debugger in python
   - [RevBrain](https://github.com/Vozec/RevBrain): A tool to automate crack resolution in CTF
   - [HSPAL Decompiler](https://github.com/Vozec/HSPAL-Decompiler): A Decompiler of the HSPAL esolang
 
