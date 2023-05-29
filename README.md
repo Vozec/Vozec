@@ -44,7 +44,9 @@ You can find me here :
   - [Ctfd Account Creator](https://github.com/Vozec/Ctfd-Account-Creator): A tool to quickly register a team on CTFd
 
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Vozec&show_icons=true&theme=dark)
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=Vozec&row=1">
+</p>
 
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge)
