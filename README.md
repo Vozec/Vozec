@@ -8,12 +8,11 @@ I also have a web site: [vozec.fr](https://vozec.fr) on which I publish articles
 
 ## Contact:  
 You can find me here : 
-  - [Twitter](https://twitter.com/Vozec1)
-  - [Linkedin](https://www.linkedin.com/in/arthur-deloffre-844b7a221/)
-  - [Instagram](https://www.instagram.com/arthur_dlfr/)
-  - [RootMe](https://www.root-me.org/Vozec?lang=fr#9f0f137c4cbb8d9e32b9f1a287283ba7)
   - [Vozec.fr](https://vozec.fr)
-  
+  - [Twitter](https://twitter.com/Vozec1)
+  - [RootMe](https://www.root-me.org/Vozec?lang=fr#9f0f137c4cbb8d9e32b9f1a287283ba7)
+  - [Linkedin](https://www.linkedin.com/in/arthur-deloffre-844b7a221/)
+
 ## Here is a list of all the tools I have so far published :
 
 - ### :lock: Cryptography :unlock:
